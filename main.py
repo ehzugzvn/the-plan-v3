@@ -1,3 +1,5 @@
+"""Entry program: writes the plan text to entry.txt."""
+
 import os
 
 PLAN = (
